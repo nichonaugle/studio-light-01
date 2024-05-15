@@ -1,5 +1,6 @@
 # Hardware
 
+## Overview
 ## Contributing
 Contributions are welcome! Whether you're a developer, designer, or maker, your input can help enhance # studio-light-01. Check out the contribution guidelines in the LICENSE file for more details.
 
